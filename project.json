@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "mujoco-box-edge-contact",
+  "repository": "https://github.com/jpgordon00/ci-mujoco-box-edge-contact",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/mujoco-box-edge-contact/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/mujoco-box-edge-contact",
+  "catalog_commit": "c2be45e6ee0403d38cf146d1a540cf33ccd89065"
+}
